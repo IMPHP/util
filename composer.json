@@ -1,0 +1,23 @@
+{
+    "name": "imphp/util",
+    "license": "MIT",
+    "description": "Utility library",
+    "type": "library",
+
+    "authors": [
+        {
+            "name": "Daniel Bergløv",
+            "email": "d.bergloev@mailbox.com"
+        }
+    ],
+
+    "require": {
+        "imphp/base": "~1.1"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "im\\": "src/"
+        }
+    }
+}
