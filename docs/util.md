@@ -19,3 +19,4 @@ Seperate utility package
 | Name | Description |
 | :--- | :---------- |
 | [Event](util-Event.md) | An event object for the `im\util\EventHandler` |
+| [CLIProgress](util-CLIProgress.md) | Provides a CLI Progress bar that can be used for terminal scripts |
